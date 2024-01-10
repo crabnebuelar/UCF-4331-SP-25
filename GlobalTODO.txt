@@ -1,0 +1,4 @@
+Global TODO:
+	[ ] Set up In-Person Meetings
+	[ ] Decide Group Roles
+	[ ] Plan out project
